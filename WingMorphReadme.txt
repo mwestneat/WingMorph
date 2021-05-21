@@ -2,6 +2,8 @@ WingMorph.app
 Mark W. Westneat and Stephanie Baumgart
 University of Chicago 2019
 
+Download the DMG to Mac and unarchive- you will prbably have to over-ride security settings to allow it to run.
+
 This app loads a set of 40 coordinate points (landmarks and semi-landmarks) from geometric morphometric analysis of bird wing shape.
 The pre-loaded data set is from a study of 136 waterbirds.
 Data taken on other bird wings with exactly the same protocol and coordinate order can be loaded in place of the pre-loaded data.
